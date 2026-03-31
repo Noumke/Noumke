@@ -1,4 +1,4 @@
-# Bonjour ! 👋 Je m'appelle Ibrahima Touré
+# Bonjour ! 👋 Je m'appelle Ibrahima TOURE
 
 ### BUT Data Science | Futur Data Engineer | IUT Aurillac
 
